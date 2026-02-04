@@ -4,7 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "node --watch src/index.js"
+    "dev": "node --watch src/index.js",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
   },
   "repository": {
     "type": "git",
@@ -19,6 +23,11 @@
   },
   "type": "module",
   "devDependencies": {
-    "nodemon": "^3.1.11"
+    "@eslint/js": "^9.39.2",
+    "eslint": "^9.39.2",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-prettier": "^5.5.5",
+    "nodemon": "^3.1.11",
+    "prettier": "^3.8.1"
   }
 }
