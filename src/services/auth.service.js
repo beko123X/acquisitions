@@ -2,7 +2,7 @@ import logger from '#config/logger.js';
 import bcrypt from 'bcrypt';
 import { db } from '#config/database.js';
 import { eq } from 'drizzle-orm';
-import {users} from "#models/user.model.js";
+import {users} from '#models/user.model.js';
 
 export const hashedPassword = async (password) => {
   try {
@@ -30,7 +30,7 @@ export const createUser = async ({name, email, password, role = 'user'}) => {
       .where(eq(users.email, email))
       .limit(1);
 
-    if (existingUser.length > 0) throw new Error(`User with this email already exists`);
+    if (existingUser.length > 0) throw new Error('User with this email already exists');
 
     const password_hash = await hashedPassword(password);
 

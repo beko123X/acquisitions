@@ -218,3 +218,208 @@
 {"level":"info","message":"User john@gmail.com authenticated successfully.","service":"acquisition-api"}
 {"level":"info","message":"User signed in successfully: john@gmail.com","service":"acquisition-api"}
 {"level":"info","message":"::1 - - [05/Feb/2026:23:02:38 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 111 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"level":"info","message":"User yasin@gmail.com authenticated successfully.","service":"acquisition-api"}
+{"level":"info","message":"User yasin@gmail.com authenticated successfully.","service":"acquisition-api"}
+{"level":"info","message":"User signed in successfully: yasin@gmail.com","service":"acquisition-api"}
+{"level":"info","message":"::1 - - [05/Feb/2026:23:54:36 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 113 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"level":"info","message":"User signed out successfully","service":"acquisition-api"}
+{"level":"info","message":"::1 - - [05/Feb/2026:23:54:52 +0000] \"POST /api/auth/sign-out HTTP/1.1\" 200 42 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"level":"info","message":"User yasin@gmail.com authenticated successfully.","service":"acquisition-api"}
+{"level":"info","message":"User signed in successfully: yasin@gmail.com","service":"acquisition-api"}
+{"level":"info","message":"::1 - - [06/Feb/2026:01:18:06 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 113 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"level":"info","message":"User signed out successfully","service":"acquisition-api"}
+{"level":"info","message":"::1 - - [06/Feb/2026:01:18:16 +0000] \"POST /api/auth/sign-out HTTP/1.1\" 200 42 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"POST","path":"/api/auth/sign-out","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"level":"info","message":"::1 - - [06/Feb/2026:01:37:07 +0000] \"POST /api/auth/sign-out HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"POST","path":"/api/auth/sign-out","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"level":"info","message":"::1 - - [06/Feb/2026:01:37:25 +0000] \"POST /api/auth/sign-out HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"POST","path":"/api/auth/sign-out","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"level":"info","message":"::1 - - [06/Feb/2026:01:37:32 +0000] \"POST /api/auth/sign-out HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"POST","path":"/api/auth/sign-in","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"level":"info","message":"::1 - - [06/Feb/2026:01:37:50 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"POST","path":"/api/auth/sign-in","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"level":"info","message":"::1 - - [06/Feb/2026:01:37:55 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"POST","path":"/health","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"level":"info","message":"::1 - - [06/Feb/2026:01:39:02 +0000] \"POST /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"GET","path":"/health","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"level":"info","message":"::1 - - [06/Feb/2026:01:39:11 +0000] \"GET /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"GET","path":"/health","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"level":"info","message":"::1 - - [06/Feb/2026:01:45:20 +0000] \"GET /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"GET","path":"/health","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:01:12 +0000] \"GET /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"GET","path":"/health","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:01:16 +0000] \"GET /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"GET","path":"/health","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:02:53 +0000] \"GET /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"GET","path":"/health","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:02:57 +0000] \"GET /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"GET","path":"/health","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:03:28 +0000] \"GET /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"GET","path":"/health","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:03:31 +0000] \"GET /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"GET","path":"/health","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:03:33 +0000] \"GET /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"GET","path":"/health","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:03:36 +0000] \"GET /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"GET","path":"/health","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:13:24 +0000] \"GET /health HTTP/1.1\" 403 67 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"GET","path":"/health","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:13:27 +0000] \"GET /health HTTP/1.1\" 403 67 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"GET","path":"/health","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:13:29 +0000] \"GET /health HTTP/1.1\" 403 67 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"GET","path":"/health","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:13:31 +0000] \"GET /health HTTP/1.1\" 403 67 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"GET","path":"/health","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:13:33 +0000] \"GET /health HTTP/1.1\" 403 67 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"GET","path":"/health","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:13:36 +0000] \"GET /health HTTP/1.1\" 403 67 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"GET","path":"/","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:13:47 +0000] \"GET / HTTP/1.1\" 403 67 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"POST","path":"/api/auth/sign-in","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:14:02 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 67 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"POST","path":"/api/auth/sign-out","service":"acquisition-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:16:08 +0000] \"POST /api/auth/sign-out HTTP/1.1\" 403 67 \"-\" \"HTTPie\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"POST","path":"/api/auth/sign-out","service":"acquisition-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:16:10 +0000] \"POST /api/auth/sign-out HTTP/1.1\" 403 67 \"-\" \"HTTPie\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"GET","path":"/health","service":"acquisition-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:16:24 +0000] \"GET /health HTTP/1.1\" 403 67 \"-\" \"HTTPie\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"GET","path":"/health","service":"acquisition-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:19:56 +0000] \"GET /health HTTP/1.1\" 403 67 \"-\" \"HTTPie\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"GET","path":"/health","service":"acquisition-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:20:30 +0000] \"GET /health HTTP/1.1\" 403 67 \"-\" \"HTTPie\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"GET","path":"/health","service":"acquisition-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:20:34 +0000] \"GET /health HTTP/1.1\" 403 67 \"-\" \"HTTPie\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"GET","path":"/health","service":"acquisition-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:25:17 +0000] \"GET /health HTTP/1.1\" 403 67 \"-\" \"HTTPie\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"POST","path":"/api/auth/sign-in","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"POST","path":"/api/auth/sign-in","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:25:55 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 67 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"POST","path":"/api/auth/sign-in","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:25:57 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 67 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"GET","path":"/health","service":"acquisition-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:27:47 +0000] \"GET /health HTTP/1.1\" 403 67 \"-\" \"HTTPie\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"GET","path":"/health","service":"acquisition-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:27:49 +0000] \"GET /health HTTP/1.1\" 403 67 \"-\" \"HTTPie\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"GET","path":"/health","service":"acquisition-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:28:17 +0000] \"GET /health HTTP/1.1\" 403 67 \"-\" \"HTTPie\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"GET","path":"/health","service":"acquisition-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:28:19 +0000] \"GET /health HTTP/1.1\" 403 67 \"-\" \"HTTPie\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"GET","path":"/health","service":"acquisition-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:30:53 +0000] \"GET /health HTTP/1.1\" 403 67 \"-\" \"HTTPie\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"GET","path":"/health","service":"acquisition-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:30:54 +0000] \"GET /health HTTP/1.1\" 403 67 \"-\" \"HTTPie\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"GET","path":"/health","service":"acquisition-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:30:55 +0000] \"GET /health HTTP/1.1\" 403 67 \"-\" \"HTTPie\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"GET","path":"/health","service":"acquisition-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:31:22 +0000] \"GET /health HTTP/1.1\" 403 67 \"-\" \"HTTPie\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"POST","path":"/api/auth/sign-in","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:31:22 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 67 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"POST","path":"/api/auth/sign-in","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:31:29 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 67 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"POST","path":"/api/auth/sign-in","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:31:34 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 67 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"POST","path":"/api/auth/sign-in","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:34:19 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 67 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"POST","path":"/api/auth/sign-in","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:34:21 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 67 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"POST","path":"/api/auth/sign-in","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:34:22 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 67 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"POST","path":"/api/auth/sign-in","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:34:30 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 67 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"POST","path":"/api/auth/sign-in","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:34:32 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 67 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Shield Request Blocked","method":"POST","path":"/api/auth/sign-in","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:34:59 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Shield Request Blocked","method":"POST","path":"/api/auth/sign-in","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:35:20 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Shield Request Blocked","method":"POST","path":"/api/auth/sign-in","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:35:24 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Shield Request Blocked","method":"POST","path":"/api/auth/sign-in","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:35:26 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Shield Request Blocked","method":"POST","path":"/api/auth/sign-in","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:35:28 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Shield Request Blocked","method":"POST","path":"/api/auth/sign-in","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:35:32 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Shield Request Blocked","method":"GET","path":"/health","service":"acquisition-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:36:38 +0000] \"GET /health HTTP/1.1\" 403 68 \"-\" \"HTTPie\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Shield Request Blocked","method":"GET","path":"/health","service":"acquisition-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:36:42 +0000] \"GET /health HTTP/1.1\" 403 68 \"-\" \"HTTPie\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","method":"GET","path":"/health","service":"acquisition-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:37:35 +0000] \"GET /health HTTP/1.1\" 403 50 \"-\" \"HTTPie\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","method":"GET","path":"/health","service":"acquisition-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:37:37 +0000] \"GET /health HTTP/1.1\" 403 50 \"-\" \"HTTPie\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","method":"GET","path":"/health","service":"acquisition-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:37:41 +0000] \"GET /health HTTP/1.1\" 403 50 \"-\" \"HTTPie\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","method":"GET","path":"/health","service":"acquisition-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:37:46 +0000] \"GET /health HTTP/1.1\" 403 50 \"-\" \"HTTPie\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","method":"GET","path":"/health","service":"acquisition-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:37:48 +0000] \"GET /health HTTP/1.1\" 403 50 \"-\" \"HTTPie\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","method":"GET","path":"/","service":"acquisition-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:38:02 +0000] \"GET / HTTP/1.1\" 403 50 \"-\" \"HTTPie\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","method":"GET","path":"/","service":"acquisition-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:38:12 +0000] \"GET / HTTP/1.1\" 403 50 \"-\" \"HTTPie\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","method":"GET","path":"/","service":"acquisition-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:44:48 +0000] \"GET / HTTP/1.1\" 403 50 \"-\" \"HTTPie\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","method":"POST","path":"/api/auth/sign-in","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:46:01 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 50 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","method":"POST","path":"/api/auth/sign-in","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:46:05 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 50 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"POST","path":"/api/auth/sign-in","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:46:29 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 67 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"level":"info","message":"Hello From Acquisition!","service":"acquisition-api"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:52:27 +0000] \"GET / HTTP/1.1\" 200 23 \"-\" \"HTTPie\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"POST","path":"/api/auth/sign-in","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:52:45 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"POST","path":"/api/auth/sign-in","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:52:49 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"POST","path":"/api/","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:52:58 +0000] \"POST /api/ HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"POST","path":"/api/","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:53:10 +0000] \"POST /api/ HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"POST","path":"/","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:53:13 +0000] \"POST / HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"POST","path":"/","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:53:15 +0000] \"POST / HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"GET","path":"/","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:53:20 +0000] \"GET / HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"GET","path":"/","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:53:22 +0000] \"GET / HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"GET","path":"/","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:54:03 +0000] \"GET / HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"GET","path":"/","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:54:08 +0000] \"GET / HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"GET","path":"/api/sign-in","service":"acquisition-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:54:44 +0000] \"GET /api/sign-in HTTP/1.1\" 403 68 \"-\" \"HTTPie\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"GET","path":"/","service":"acquisition-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:54:50 +0000] \"GET / HTTP/1.1\" 403 68 \"-\" \"HTTPie\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Bot Request Blocked","method":"GET","path":"/","service":"acquisition-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:54:52 +0000] \"GET / HTTP/1.1\" 403 68 \"-\" \"HTTPie\"","service":"acquisition-api"}
+{"level":"info","message":"Hello From Acquisition!","service":"acquisition-api"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:58:51 +0000] \"GET / HTTP/1.1\" 200 23 \"-\" \"HTTPie\"","service":"acquisition-api"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:59:07 +0000] \"GET /api/auth HTTP/1.1\" 404 147 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:59:13 +0000] \"GET /api/auth/login HTTP/1.1\" 404 153 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:59:22 +0000] \"POST /api/auth/login HTTP/1.1\" 404 154 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"level":"info","message":"::1 - - [06/Feb/2026:02:59:29 +0000] \"POST /api/auth/log-in HTTP/1.1\" 404 155 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"level":"info","message":"User yasin@gmail.com authenticated successfully.","service":"acquisition-api"}
+{"level":"info","message":"User signed in successfully: yasin@gmail.com","service":"acquisition-api"}
+{"level":"info","message":"::1 - - [06/Feb/2026:03:00:09 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 113 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"level":"info","message":"::1 - - [06/Feb/2026:03:00:14 +0000] \"POST /api/auth/sign-in HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"level":"info","message":"::1 - - [06/Feb/2026:03:00:14 +0000] \"POST /api/auth/sign-in HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","method":"POST","path":"/api/auth/sign-in","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"level":"info","message":"User yasin@gmail.com authenticated successfully.","service":"acquisition-api"}
+{"level":"info","message":"User signed in successfully: yasin@gmail.com","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","method":"POST","path":"/api/auth/sign-in","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"level":"info","message":"::1 - - [06/Feb/2026:03:00:15 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 429 97 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","method":"POST","path":"/api/auth/sign-in","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"level":"info","message":"::1 - - [06/Feb/2026:03:00:16 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 429 97 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","method":"POST","path":"/api/auth/sign-in","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"level":"info","message":"::1 - - [06/Feb/2026:03:00:17 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 429 97 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","method":"POST","path":"/api/auth/sign-in","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"level":"info","message":"::1 - - [06/Feb/2026:03:00:32 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 429 97 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","method":"POST","path":"/api/auth/sign-in","service":"acquisition-api","userAgent":"PostmanRuntime/7.29.2"}
+{"level":"info","message":"::1 - - [06/Feb/2026:03:00:34 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 429 97 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"level":"info","message":"User yasin@gmail.com authenticated successfully.","service":"acquisition-api"}
+{"level":"info","message":"User signed in successfully: yasin@gmail.com","service":"acquisition-api"}
+{"level":"info","message":"::1 - - [06/Feb/2026:03:02:21 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 113 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
+{"level":"info","message":"User signed out successfully","service":"acquisition-api"}
+{"level":"info","message":"::1 - - [06/Feb/2026:03:02:29 +0000] \"POST /api/auth/sign-out HTTP/1.1\" 200 42 \"-\" \"PostmanRuntime/7.29.2\"","service":"acquisition-api"}
